@@ -9,6 +9,11 @@ This project demonstrates how to use the `requests` library to obtain proxy serv
 - **Configurability:** Easily configure the project according to your proxy requirements.
 
 ## Setup
-1. **Install Dependencies:**
-   ```bash
+```bash
    pip install -r requirements.txt
+```
+
+## Usage
+```bash
+   python main.py
+```
