@@ -1,6 +1,4 @@
 # 🤖 Selenium Proxy Integration 🌐
-
-# Overview
 This project demonstrates how to use the `requests` library to obtain proxy servers and integrate them with Selenium for web scraping.
 
 ## Features
