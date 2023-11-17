@@ -8,10 +8,10 @@ This project demonstrates how to use the `requests` library to obtain proxy serv
 
 ## Setup
 ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
 ```bash
-   python main.py
+python main.py
 ```
