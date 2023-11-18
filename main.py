@@ -31,3 +31,4 @@ for _ in range(2):
     except:
         time.sleep(5)
         driver.close()
+

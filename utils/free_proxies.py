@@ -3,7 +3,6 @@ from threading import Thread
 import requests
 from bs4 import BeautifulSoup
 
-
 class FreeProxy:
     def __init__(self):
         self.headers = {
