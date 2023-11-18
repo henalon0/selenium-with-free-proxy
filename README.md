@@ -15,4 +15,3 @@ This project demonstrates how to use the `requests` library to obtain proxy serv
 ```bash
   python main.py
 ```
-

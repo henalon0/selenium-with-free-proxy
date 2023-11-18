@@ -57,7 +57,6 @@ class FreeProxy:
                 assert len(self.valid_proxies) > 0
             
                 return self.valid_proxies
-            
             except:
                 continue
     
